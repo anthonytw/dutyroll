@@ -20,7 +20,7 @@ except SKBuildError:
 
 setup(
     name='dutyroll',
-    version='1.0.0',
+    version='1.0.1',
     description='Parallel implementation of rolling window duty cycle.',
     author='"Anthony Wertz"<awertz@cmu.edu>',
     license='MIT',
